@@ -1,4 +1,4 @@
-Reflection on the Final Project - Kavipooja Selvakumar 
+## Reflection on the Final Project - Kavipooja Selvakumar 
  
 One of the most revolutionary creative-technical projects I have worked on is AstraBloom. The concept was straightforward when I first started, a touch that produces a visual bloom. However, as the project progressed, it organically transformed into a far more complex interactive experience that included visual storytelling, sensor-based triggers, and constellations.
 
